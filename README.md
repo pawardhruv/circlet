@@ -6,7 +6,3 @@ PROJECT - 4
 
     OUTPUT![Screenshot (9)](https://github.com/user-attachments/assets/b78977d4-14d0-4b10-b8b8-d7ea5fa3656a)
 
-
-
-
-    Q.2 
